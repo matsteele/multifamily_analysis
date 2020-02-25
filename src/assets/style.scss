@@ -1,0 +1,49 @@
+// Colors
+$brightTeal: rgba(1, 194, 203, 0.9); //rgba(40, 142, 139, 0.9);
+$greyTeal:  rgba(11, 40, 39, 0.97);
+$white: rgb(255, 255, 255);
+$white-fade1: rgba(255, 255, 255, 0.7);
+$white-fade2: rgba(255, 255, 255, 0.4);
+$grey-fade: rgba(128, 128, 128, 0.7);
+
+// Fonts
+$font-sm: 11.5px;
+$font-md: 18.5px;
+$font-lg: 30px;
+$font-vlg: 50px;
+
+@font-face {
+  font-family: "light";
+  src: url("fonts/KozGoPr6N-ExtraLight.otf");
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  overflow: scroll;
+  font-family: 'Source Sans Pro', sans-serif;
+  line-height: 1;
+}
+
+#root{
+    width: 100%;
+    height: 100%;
+      background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  font-family: light;
+  display: flex;
+  flex-flow: column;
+}
+
+.bounceOnHover{
+  transition: all .2s ease-in-out;
+  &:hover {
+    transform: scale(1.2, 1.2);
+    cursor: pointer;
+  }
+}

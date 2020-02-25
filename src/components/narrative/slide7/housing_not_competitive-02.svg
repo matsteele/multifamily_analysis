@@ -1,0 +1,36 @@
+<svg id="Layer_1" data-name="Layer 1" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 774.72 444.54">
+    <defs>
+        <style>.cls-1,.cls-3{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{stroke:gray;stroke-miterlimit:10;}.cls-4{clip-path:url(#clip-path-2);}.cls-5{clip-path:url(#clip-path-3);}.cls-6{opacity:0.7;}.cls-7{clip-path:url(#clip-path-4);}.cls-8,.cls-9{font-size:15px;}.cls-8{fill:#1d1d1b;font-family:KozGoPro-ExtraLight-83pv-RKSJ-H, Kozuka Gothic Pro;}.cls-9{fill:#20c2ca;font-family:KozGoPro-Bold-83pv-RKSJ-H, Kozuka Gothic Pro;}</style>
+        <clipPath id="clip-path">
+            <rect class="cls-1" x="131.36" y="225.4" width="471.5" height="124.3"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <rect class="cls-1" x="263" y="242.84" width="682.72" height="48.16"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <rect class="cls-1" x="263" y="242.84" width="682.72" height="48.16"/>
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <rect class="cls-1" x="263" y="242.84" width="682.72" height="48.16"/>
+        </clipPath>
+    </defs>
+    <title>housing_not_competitive</title>
+    <g class="cls-2">
+        <polyline class="cls-3" points="140.73 244.91 145.83 239.39 152.07 247.81 153.49 247.81 156.6 247.37 162.28 233.3 171.91 243.17 175.32 248.1 179.29 256.08 184.68 258.54 191.2 254.63 200.27 263.48 212.18 279.29 223.52 281.76 230.04 275.08 240.53 245.49 245.64 251.72 253.57 254.77 256.98 264.93 265.48 263.33 270.02 265.22 272.86 269.57 280.23 273.63 291 283.79 298.94 282.19 302.34 282.19 307.45 286.11 336.37 303.95 348.28 307.87 351.96 312.22 363.02 316.28 369.83 315.56 375.5 318.61 381.73 317.44 385.14 319.47 396.48 315.7 404.42 317.01 414.34 318.31 418.59 318.61 429.94 321.22 437.88 324.99 442.98 324.99 446.38 329.05 465.66 332.97 473.88 333.4 487.78 332.82 494.02 338.05 504.22 336.88 515.57 340.37 521.24 339.2 528.04 341.24 534.28 343.27 537.68 343.56 543.35 345.3 553.27 345.3 558.1 345.59 564.9 345.3 570.57 346.46 579.08 346.75 589.85 348.2 593.82 347.91"/>
+    </g>
+    <g class="cls-4">
+        <g class="cls-5">
+            <g class="cls-6">
+                <g class="cls-7">
+                    <text class="cls-8" transform="translate(272 261.9)">US </text>
+                    <text class="cls-9" transform="translate(293.42 261.9)">food</text>
+                    <text class="cls-8" transform="translate(325.72 261.9)">
+                        <tspan xml:space="preserve"> expenditures as a share of disposable income</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
