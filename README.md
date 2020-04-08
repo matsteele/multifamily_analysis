@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,4 +70,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # multifamily_analysis
 This housing analysis uses 'parallax scrolling' to feature key factors that do and do not explain why the urban housing market is broken. 
->>>>>>> dec66af0d51edf22b8caa70290b9992ce0e7dbf5
