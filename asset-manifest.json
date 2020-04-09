@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/multifamily_analysis/static/css/main.88493d7a.chunk.css",
-    "main.js": "/multifamily_analysis/static/js/main.5f716fdc.chunk.js",
-    "main.js.map": "/multifamily_analysis/static/js/main.5f716fdc.chunk.js.map",
+    "main.js": "/multifamily_analysis/static/js/main.3d093fdd.chunk.js",
+    "main.js.map": "/multifamily_analysis/static/js/main.3d093fdd.chunk.js.map",
     "runtime-main.js": "/multifamily_analysis/static/js/runtime-main.743391fd.js",
     "runtime-main.js.map": "/multifamily_analysis/static/js/runtime-main.743391fd.js.map",
-    "static/js/2.cba897a1.chunk.js": "/multifamily_analysis/static/js/2.cba897a1.chunk.js",
-    "static/js/2.cba897a1.chunk.js.map": "/multifamily_analysis/static/js/2.cba897a1.chunk.js.map",
+    "static/js/2.3ae6e200.chunk.js": "/multifamily_analysis/static/js/2.3ae6e200.chunk.js",
+    "static/js/2.3ae6e200.chunk.js.map": "/multifamily_analysis/static/js/2.3ae6e200.chunk.js.map",
     "index.html": "/multifamily_analysis/index.html",
-    "precache-manifest.0194b7bb43aec508efd817c871197ea9.js": "/multifamily_analysis/precache-manifest.0194b7bb43aec508efd817c871197ea9.js",
+    "precache-manifest.db0fa1657fa7c73f6599c3e054801538.js": "/multifamily_analysis/precache-manifest.db0fa1657fa7c73f6599c3e054801538.js",
     "service-worker.js": "/multifamily_analysis/service-worker.js",
     "static/css/main.88493d7a.chunk.css.map": "/multifamily_analysis/static/css/main.88493d7a.chunk.css.map",
-    "static/js/2.cba897a1.chunk.js.LICENSE.txt": "/multifamily_analysis/static/js/2.cba897a1.chunk.js.LICENSE.txt",
+    "static/js/2.3ae6e200.chunk.js.LICENSE.txt": "/multifamily_analysis/static/js/2.3ae6e200.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/multifamily_analysis/static/media/KozGoPr6N-ExtraLight.1bc2434d.otf",
+    "static/media/background.png": "/multifamily_analysis/static/media/background.240fe409.png",
     "static/media/background.svg": "/multifamily_analysis/static/media/background.f9493375.svg",
     "static/media/housing_bubble-01.svg": "/multifamily_analysis/static/media/housing_bubble-01.fbae4486.svg",
     "static/media/housing_bubble-02.svg": "/multifamily_analysis/static/media/housing_bubble-02.b482304c.svg",
@@ -45,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.743391fd.js",
-    "static/js/2.cba897a1.chunk.js",
+    "static/js/2.3ae6e200.chunk.js",
     "static/css/main.88493d7a.chunk.css",
-    "static/js/main.5f716fdc.chunk.js"
+    "static/js/main.3d093fdd.chunk.js"
   ]
 }
